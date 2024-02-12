@@ -1,0 +1,23 @@
+<testsuite name="simulations.JsonPlaceholderSimulation" tests="7" errors="0" failures="0" time="0">
+  <testcase name="Global: max of response time is less than 500.0" status="true" time="0">
+  <system-out>Global: max of response time is less than 500.0</system-out>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than 95.0" status="true" time="0">
+  <system-out>Global: percentage of successful events is greater than 95.0</system-out>
+</testcase>
+<testcase name="Get all posts: mean of response time is less than or equal to 2000.0" status="true" time="0">
+  <system-out>Get all posts: mean of response time is less than or equal to 2000.0</system-out>
+</testcase>
+<testcase name="Get particular post: mean of response time is less than or equal to 2000.0" status="true" time="0">
+  <system-out>Get particular post: mean of response time is less than or equal to 2000.0</system-out>
+</testcase>
+<testcase name="Get comments of particular post: mean of response time is less than or equal to 2000.0" status="true" time="0">
+  <system-out>Get comments of particular post: mean of response time is less than or equal to 2000.0</system-out>
+</testcase>
+<testcase name="Get comments of particular post - v2: mean of response time is less than or equal to 2000.0" status="true" time="0">
+  <system-out>Get comments of particular post - v2: mean of response time is less than or equal to 2000.0</system-out>
+</testcase>
+<testcase name="Create a new post: mean of response time is less than or equal to 2000.0" status="true" time="0">
+  <system-out>Create a new post: mean of response time is less than or equal to 2000.0</system-out>
+</testcase>
+</testsuite>
