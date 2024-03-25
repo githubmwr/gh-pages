@@ -1,0 +1,32 @@
+<testsuite name="simulations.JsonPlaceholderSimulation" tests="10" errors="0" failures="0" time="0">
+  <testcase name="Global: max of response time is less than 700.0" status="true" time="0">
+  <system-out>Global: max of response time is less than 700.0</system-out>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than 95.0" status="true" time="0">
+  <system-out>Global: percentage of successful events is greater than 95.0</system-out>
+</testcase>
+<testcase name="Get all posts: mean of response time is less than or equal to 600.0" status="true" time="0">
+  <system-out>Get all posts: mean of response time is less than or equal to 600.0</system-out>
+</testcase>
+<testcase name="Get particular post: mean of response time is less than or equal to 160.0" status="true" time="0">
+  <system-out>Get particular post: mean of response time is less than or equal to 160.0</system-out>
+</testcase>
+<testcase name="Get comments of particular post: mean of response time is less than or equal to 120.0" status="true" time="0">
+  <system-out>Get comments of particular post: mean of response time is less than or equal to 120.0</system-out>
+</testcase>
+<testcase name="Get comments of particular post - v2: mean of response time is less than or equal to 100.0" status="true" time="0">
+  <system-out>Get comments of particular post - v2: mean of response time is less than or equal to 100.0</system-out>
+</testcase>
+<testcase name="Create a new post: mean of response time is less than or equal to 600.0" status="true" time="0">
+  <system-out>Create a new post: mean of response time is less than or equal to 600.0</system-out>
+</testcase>
+<testcase name="Update an existing post: mean of response time is less than or equal to 900.0" status="true" time="0">
+  <system-out>Update an existing post: mean of response time is less than or equal to 900.0</system-out>
+</testcase>
+<testcase name="Patch post: mean of response time is less than or equal to 450.0" status="true" time="0">
+  <system-out>Patch post: mean of response time is less than or equal to 450.0</system-out>
+</testcase>
+<testcase name="Delete post: mean of response time is less than or equal to 400.0" status="true" time="0">
+  <system-out>Delete post: mean of response time is less than or equal to 400.0</system-out>
+</testcase>
+</testsuite>
